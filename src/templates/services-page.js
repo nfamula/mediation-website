@@ -133,7 +133,7 @@ const ServicesPage = ({ data }) => {
 
   return (
     <Layout>
-      <ProductPageTemplate
+      <ServicesPageTemplate
         image={frontmatter.image}
         title={frontmatter.title}
         heading={frontmatter.heading}
